@@ -11,12 +11,9 @@ Project 6 - Restaurant Website<br>
 Project 7 - Music Website<br>
 Project 8 - Youtube Clone<br>
 Project 9 - Javascript Documentation<br>
-Project 10 - Blog Wesbite<br>
+Project 10 - Blog Wesbite
+Project 10 has been published on Netlify.app as<br>
 
-Project 10 has been published on Netlify.app as 
+<a href = "https://rishabhblog.netlify.app/" target = "_blank">Have a look on Project 10</a><br>
 
-https://rishabhblog.netlify.app/
-
-<br>
-<br>
 Project 11 - Portfolio Website
