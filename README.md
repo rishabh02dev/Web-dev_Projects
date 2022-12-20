@@ -14,6 +14,6 @@ Project 9 - Javascript Documentation<br>
 Project 10 - Blog Wesbite
 Project 10 has been published on Netlify.app as<br>
 
-<a href = "https://rishabhblog.netlify.app/" target = "_blank">Have a look on Project 10</a><br>
+<a href = "https://rishabhblog.netlify.app/" target = "_blank" >Have a look on Project 10</a><br>
 
 Project 11 - Portfolio Website
