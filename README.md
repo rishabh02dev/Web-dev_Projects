@@ -11,6 +11,9 @@ Project 6 - Restaurant Website<br>
 Project 7 - Music Website<br>
 Project 8 - Youtube Clone<br>
 Project 9 - Javascript Documentation<br>
+
+<a href = "https://javadocumentationbyrishabh.netlify.app/" target = "blank">Have a look on project 9</a><br>
+
 Project 10 - Blog Wesbite
 Project 10 has been published on Netlify.app as<br>
 
